@@ -8,7 +8,7 @@ Our project revisits this time period and looks into how the takeover unraveled,
 This project serves as a reminder of what happened in Afghanistan and of the ongoing suffering. We hope that bringing awareness to this humanitarian crisis will encourage you the viewers to support the people of Afghanistan in any way you can.
 
 ## Website
-[Follow this link to view our project: ](https://code.harvard.edu/pages/mar8776/CS171Project/)
+[Follow this link to view our project: ](https://mraottth.github.io/)
 
 ## How to use
 * clone the repository: https://code.harvard.edu/mar8776/CS171Project.git .
@@ -43,7 +43,7 @@ cs171-final-project
        |   ...
 └───images
 |   ...
-└───docs
+└───documents
 |   ...
 ```
 
